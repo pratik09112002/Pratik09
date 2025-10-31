@@ -31,7 +31,7 @@ Full-Stack Web Applications: Interactive and scalable apps built with cutting-ed
 
 Cybersecurity Tools: Collection of scripts and utilities for penetration testing, ethical hacking, and threat analysis.
 
-📈 What You’ll Find Here
+📈 What You’ll Find Here?
 Regular updates with new projects and improvements demonstrating hands-on AI, web development, and cybersecurity skills.
 
 Well-documented repositories with clear README files and usage instructions.
